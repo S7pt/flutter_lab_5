@@ -1,4 +1,4 @@
-# to_do_list
+# Food wishes app
 
 A new Flutter project.
 
